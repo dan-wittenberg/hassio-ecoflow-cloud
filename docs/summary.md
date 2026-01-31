@@ -1598,6 +1598,82 @@
 
 </p></details>
 
+<details><summary> DELTA Pro Ultra X(API) <i>(sensors: 58, switches: 3, sliders: 4)</i> </summary>
+<p>
+
+*Sensors*
+- Status (Scheduled)
+- Remaining Time
+- Battery level SOC
+- Battery Count
+- Wireless 4G Data Max  _(disabled)_
+- Wireless 4G Data Remaining  _(disabled)_
+- Wireless 4G Resgistered  _(disabled)_
+- Wireless 4G Error Code  _(disabled)_
+- Wireless 4G SIM ID  _(disabled)_
+- Internet Connection Type  _(disabled)_
+- Error Code
+- Total In Power (energy:  _[Device Name]_ Total In  Energy)
+- Total Out Power (energy:  _[Device Name]_ Total Out  Energy)
+- Power I/O Port Input Power (energy:  _[Device Name]_  Energy I/O Port Input  Energy)
+- Power I/O Port Input Current  _(disabled)_
+- Power I/O Port Input Voltage  _(disabled)_
+- Power I/O Port Output Power (energy:  _[Device Name]_  Energy I/O Port Output  Energy)
+- Power I/O Port Output Current  _(disabled)_
+- Power I/O Port Output Voltage  _(disabled)_
+- Power I/O Port Input Type
+- AC In Power (energy:  _[Device Name]_ AC In  Energy)
+- AC In Current  _(disabled)_
+- AC In Volts  _(disabled)_
+- USB (1) Out Power (energy:  _[Device Name]_ USB (1) Out  Energy)
+- USB (2) Out Power (energy:  _[Device Name]_ USB (2) Out  Energy)
+- Type-C (1) Out Power (energy:  _[Device Name]_ Type-C (1) Out  Energy)
+- Type-C (2) Out Power (energy:  _[Device Name]_ Type-C (2) Out  Energy)
+- Solar (1) In Power (energy:  _[Device Name]_ Solar (1) In  Energy)
+- Solar (1) In Amps  _(disabled)_
+- Solar (1) In Volts  _(disabled)_
+- Solar (2) In Power (energy:  _[Device Name]_ Solar (2) In  Energy)
+- Solar (2) In Amps  _(disabled)_
+- Solar (2) In Volts  _(disabled)_
+- AC (1) Out Power (energy:  _[Device Name]_ AC (1) Out  Energy)
+- AC (1) Out Current  _(disabled)_
+- AC (1) Out Voltage  _(disabled)_
+- AC (1) Out Frequency  _(disabled)_
+- AC (2) Out Power (energy:  _[Device Name]_ AC (2) Out  Energy)
+- AC (2) Out Current  _(disabled)_
+- AC (2) Out Voltage  _(disabled)_
+- AC (2) Out Frequency  _(disabled)_
+- AC (3) Out Power (energy:  _[Device Name]_ AC (3) Out  Energy)
+- AC (3) Out Current  _(disabled)_
+- AC (3) Out Voltage  _(disabled)_
+- AC (3) Out Frequency  _(disabled)_
+- AC (4) Out Power (energy:  _[Device Name]_ AC (4) Out  Energy)
+- AC (4) Out Current  _(disabled)_
+- AC (4) Out Voltage  _(disabled)_
+- AC (4) Out Frequency  _(disabled)_
+- AC (5) Out Power (energy:  _[Device Name]_ AC (5) Out  Energy)
+- AC (5) Out Current  _(disabled)_
+- AC (5) Out Voltage  _(disabled)_
+- AC (5) Out Frequency  _(disabled)_
+- AC (6) Out Power (energy:  _[Device Name]_ AC (6) Out  Energy)
+- AC (6) Out Current  _(disabled)_
+- AC (6) Out Voltage  _(disabled)_
+- AC (6) Out Frequency  _(disabled)_
+- DC Anderson Out Power (energy:  _[Device Name]_ DC Anderson Out  Energy)
+
+*Switches*
+- Wireless 4G Enabled 
+- Battery Auto-Heating Enabled 
+- DC Mode 
+
+*Sliders (numbers)*
+- Min Discharge Level 
+- Max Charge Level 
+- AC Charging Power 
+- Power I/O Port Charging Power 
+
+</p></details>
+
 <details><summary> DELTA 2 (API) <i>(sensors: 47, switches: 8, sliders: 6, selects: 5)</i> </summary>
 <p>
 
